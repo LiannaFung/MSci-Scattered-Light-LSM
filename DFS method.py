@@ -1,3 +1,5 @@
+#### Trial of depth first search to identify pollen
+
 import matplotlib.pyplot as plt
 
 class ImageSearchDFS:
@@ -107,4 +109,5 @@ plt.figure(figsize=(8, 6))
 plt.imshow(binary_image, cmap='gray', interpolation='none')
 plt.title('Binary Image (Thresholded)')
 plt.colorbar()
+
 plt.show()
