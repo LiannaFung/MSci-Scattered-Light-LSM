@@ -1,4 +1,4 @@
-### Calculates the density of TiO2 balls
+### Calculates the mean free path of background
 
 import numpy as np
 
@@ -49,4 +49,5 @@ suspension_and_ball = abs_m_balls*1000/0.4  # in g
 water_for_agarose = 50-suspension_and_ball
 
 print(suspension_and_ball/5, water_for_agarose/5)
+
 
