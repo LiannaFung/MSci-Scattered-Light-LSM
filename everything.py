@@ -227,11 +227,11 @@ def everything(rootdir, mask_rootdir, title, ymin=800, ymax=1000, xmin=1000, xma
 #%% FOR SINGLE PLOTS
 
 title = 'Beam Expander 4'
-bb = r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 4, bb'
-bd = r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 4, bd'
-db = r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 4, db'
-dd = r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 4, dd'
-mask = r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of 0_0125% TiO2 bb average.tif'
+bb = r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 4, bb'
+bd = r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 4, bd'
+db = r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 4, db'
+dd = r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 4, dd'
+mask = r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of 0_0125% TiO2 bb average.tif'
 
 averages = everything([bb, bd, db, dd], 0, title)  # does save averages individually
 #sb_avrg, sc_avrg, sb_sub, sc_sub, DOP_b_signal, DOP_b_background, DOP_v_signal, DOP_v_background = everything([bb, bd, db, dd], mask, title, individual_sub_plot=1)  # does save subtractions individually
@@ -239,11 +239,11 @@ averages = everything([bb, bd, db, dd], 0, title)  # does save averages individu
 #%% TIO2 0.0125, 0.025, 0.05
 
 title = ['Beam Expander 1', 'Beam Expander 2', 'Beam Expander 3',  'Beam Expander 4']
-bb = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander, bb', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 2, bb', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 3, bb', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 4, bb']
-bd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander, bd', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 2, bd', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 3, bd', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 4, bd']
-db = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander, db', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 2, db', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 3, db', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 4, db']
-dd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander, dd', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 2, dd', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 3, dd', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\Expander 4, dd']
-mask = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of expander 1 bb average.tiff', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of expander 2 bb average.tiff', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of expander 2 bb average.tiff', r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of expander 4 bb average.tiff']
+bb = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander, bb', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 2, bb', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 3, bb', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 4, bb']
+bd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander, bd', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 2, bd', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 3, bd', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 4, bd']
+db = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander, db', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 2, db', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 3, db', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 4, db']
+dd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander, dd', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 2, dd', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 3, dd', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\Expander 4, dd']
+mask = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of expander 1 bb average.tiff', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of expander 2 bb average.tiff', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of expander 2 bb average.tiff', r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of expander 4 bb average.tiff']
 
 sb_avrgs = []
 sc_avrgs = []

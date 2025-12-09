@@ -20,7 +20,7 @@ import numpy as np
 # r = np.arange(0, 2, 0.01)
 # theta = 2 * np.pi * r
 
-data=np.loadtxt('/Users/rikke.ronnow/Downloads/Uden navn2.txt',skiprows=1)
+data=np.loadtxt('C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Uden navn 2.txt',skiprows=1)
 theta=data[:,0]
 theta=theta/350*(2*np.pi)
 natural=data[:,4]

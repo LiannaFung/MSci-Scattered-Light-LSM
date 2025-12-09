@@ -564,47 +564,47 @@ fish(paths,'fish body 8')
 #%% lianna TiO2
 
 title = ['TiO2 0_0125', 'TiO2 0_0250', 'TiO2 0_0500', 'TiO2 0_1000', 'TiO2 0_2000', 'TiO2 0_4000', 'TiO2 0_01 Dithered', 'TiO2 0_01 Dithered 2']
-bb = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.0125%, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.025%, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.05%, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.1%, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.2%, p1 bright, p2 bright',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.4%, p1 bright, p2 bright',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01%, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01% 2, bb']
-bd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.0125%, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.025%, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.05%, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.1%, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.2%, p1 bright, p2 dark',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.4%, p1 bright, p2 dark',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01%, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01% 2, bd']
-db = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.0125%, db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.025%, db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.05%, db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.1%, db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.2%, p1 dark, p2 bright',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.4%, p1 dark, p2 bright',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01%, db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01% 2, db']
-dd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.0125%, dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.025%, dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.05%, dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.1%, dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.2%, p1 dark, p2 dark',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.4%, p1 dark, p2 dark',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01%, dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01% 2, dd']
+bb = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.0125%, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.025%, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.05%, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.1%, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.2%, p1 bright, p2 bright',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.4%, p1 bright, p2 bright',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01%, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01% 2, bb']
+bd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.0125%, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.025%, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.05%, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.1%, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.2%, p1 bright, p2 dark',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.4%, p1 bright, p2 dark',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01%, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01% 2, bd']
+db = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.0125%, db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.025%, db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.05%, db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.1%, db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.2%, p1 dark, p2 bright',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.4%, p1 dark, p2 bright',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01%, db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01% 2, db']
+dd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.0125%, dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.025%, dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.05%, dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.1%, dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.2%, p1 dark, p2 dark',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.4%, p1 dark, p2 dark',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01%, dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01% 2, dd']
 mask = [
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of 0_0125% TiO2 bb average.tif',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of 0_025% TiO2 bb average.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of 0_05% TiO2 bb average.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of TiO2 0.1% bb average.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of TiO2 0.2% bb average.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of TiO2 0.4% bb average.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of TiO2 0.01% bb average.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of TiO2 0.01% 2 bb average.tiff']
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of 0_0125% TiO2 bb average.tif',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of 0_025% TiO2 bb average.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of 0_05% TiO2 bb average.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of TiO2 0.1% bb average.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of TiO2 0.2% bb average.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of TiO2 0.4% bb average.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of TiO2 0.01% bb average.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of TiO2 0.01% 2 bb average.tiff']
 
 sb_avrgs = []
 sb_avrgs_errs = []
@@ -747,36 +747,36 @@ plt.show()
 # %% lianna latex
 
 title = ['Latex 0_2', 'latex 0_4', 'latex 0_8', 'latex 2', 'latex 4', 'latex 8']
-bb = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0.2%, p1 bright, p2 bright',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0.4%, p1 bright, p2 bright',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0.8%, p1 bright, p2 bright',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\2%, p1 bright, p2 bright',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\4%, p1 bright, p2 bright, attempt 2',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\8%, p1 bright, p2 bright, attempt 2']
-bd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0.2%, p1 bright, p2 dark',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0.4%, p1 bright, p2 dark',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0.8%, p1 bright, p2 dark',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\2%, p1 bright, p2 dark',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\4%, p1 bright, p2 dark, attempt 2',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\8%, p1 bright, p2 dark, attempt 2']
-db = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0.2%, p1 dark, p2 bright',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0.4%, p1 dark, p2 bright',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0.8%, p1 dark, p2 bright',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\2%, p1 dark, p2 bright',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\4%, p1 dark, p2 bright, attempt 2',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\8%, p1 dark, p2 bright, attempt 2']
-dd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0.2%, p1 dark, p2 dark',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0.4%, p1 dark, p2 dark',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0.8%, p1 dark, p2 dark',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\2%, p1 dark, p2 dark',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\4%, p1 dark, p2 dark, attempt 2',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\8%, p1 dark, p2 dark, attempt 2']
-mask = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of 0.2% bb average.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of 0.4% bb average.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of 0.8% bb average.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of 2% bb average.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of 4% bb average attempt 2.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of 8% bb average attempt 2.tiff']
+bb = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0.2%, p1 bright, p2 bright',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0.4%, p1 bright, p2 bright',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0.8%, p1 bright, p2 bright',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\2%, p1 bright, p2 bright',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\4%, p1 bright, p2 bright, attempt 2',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\8%, p1 bright, p2 bright, attempt 2']
+bd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0.2%, p1 bright, p2 dark',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0.4%, p1 bright, p2 dark',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0.8%, p1 bright, p2 dark',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\2%, p1 bright, p2 dark',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\4%, p1 bright, p2 dark, attempt 2',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\8%, p1 bright, p2 dark, attempt 2']
+db = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0.2%, p1 dark, p2 bright',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0.4%, p1 dark, p2 bright',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0.8%, p1 dark, p2 bright',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\2%, p1 dark, p2 bright',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\4%, p1 dark, p2 bright, attempt 2',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\8%, p1 dark, p2 bright, attempt 2']
+dd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0.2%, p1 dark, p2 dark',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0.4%, p1 dark, p2 dark',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0.8%, p1 dark, p2 dark',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\2%, p1 dark, p2 dark',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\4%, p1 dark, p2 dark, attempt 2',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\8%, p1 dark, p2 dark, attempt 2']
+mask = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of 0.2% bb average.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of 0.4% bb average.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of 0.8% bb average.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of 2% bb average.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of 4% bb average attempt 2.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of 8% bb average attempt 2.tiff']
 
 sb_avrgs = []
 sb_avrgs_errs = []
@@ -936,16 +936,16 @@ plt.show()
 #%% lianna 0%
 
 title = ['0', '0 attempt 2']
-bb = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0%, p1 bright, p2 bright',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0%, p1 bright, p2 bright, attempt 2']
-bd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0%, p1 bright, p2 dark',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0%, p1 bright, p2 dark, attempt 2']
-db = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0%, p1 dark, p2 bright',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0%, p1 dark, p2 bright, attempt 2']
-dd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0%, p1 dark, p2 dark',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\0%, p1 dark, p2 dark, attempt 2']
-mask = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of 0% bb average.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of 0% bb average attempt 2.tiff']
+bb = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0%, p1 bright, p2 bright',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0%, p1 bright, p2 bright, attempt 2']
+bd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0%, p1 bright, p2 dark',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0%, p1 bright, p2 dark, attempt 2']
+db = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0%, p1 dark, p2 bright',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0%, p1 dark, p2 bright, attempt 2']
+dd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0%, p1 dark, p2 dark',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\0%, p1 dark, p2 dark, attempt 2']
+mask = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of 0% bb average.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of 0% bb average attempt 2.tiff']
 
 sb_avrgs = []
 sb_avrgs_errs = []
@@ -1001,16 +1001,16 @@ rootdirs=['/Users/rikke.ronnow/Downloads/3hr fish .51, bb','/Users/rikke.ronnow/
 #%% lianna TiO2 dithered
 
 title = ['TiO2 0_01 Dithered', 'TiO2 0_01 Dithered 2']
-bb = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01%, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01% 2, bb']
-bd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01%, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01% 2, bd']
-db = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01%, db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01% 2, db']
-dd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01%, dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\TiO2 0.01% 2, dd']
-mask = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of TiO2 0.01% bb average.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\#Masks\Mask of TiO2 0.01% 2 bb average.tiff']
+bb = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01%, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01% 2, bb']
+bd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01%, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01% 2, bd']
+db = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01%, db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01% 2, db']
+dd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01%, dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\TiO2 0.01% 2, dd']
+mask = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of TiO2 0.01% bb average.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\#Masks\Mask of TiO2 0.01% 2 bb average.tiff']
 
 sb_avrgs = []
 sb_avrgs_errs = []
@@ -1052,28 +1052,28 @@ for i in range(len(title)):
 #%% lianna 3hr fish
 
 title = ['3hr _41', '3hr _42', '3hr _43', '3hr _44', '3hr_45', '3hr_46', '3hr _47', '3hr_48', '3hr _49', '3hr _50', '3hr _51']
-bb = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .41, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .42, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .43, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .44, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .45, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .46, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .47, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .48, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .49, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .50, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .51, bb']
-bd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .41, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .42, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .43, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .44, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .45, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .46, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .47, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .48, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .49, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .50, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\3hr fish .51, bd']
+bb = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .41, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .42, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .43, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .44, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .45, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .46, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .47, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .48, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .49, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .50, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .51, bb']
+bd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .41, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .42, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .43, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .44, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .45, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .46, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .47, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .48, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .49, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .50, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\3hr fish .51, bd']
 
 for i in range(len(title)):
      fish([bb[i], bd[i]], title[i])
@@ -1081,22 +1081,22 @@ for i in range(len(title)):
 #%% fish head
 
 title = ['head -_1', 'head _0', 'head _1', 'head _2', 'head _3', 'head _4', 'head _5', 'head _6']
-bb = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head -.1, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head .0, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head .1, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head .2, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head .3, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head .4, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head .5, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head .6, bb']
-bd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head -.1, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head .0, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head .1, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head .2, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head .3, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head .4, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head .5, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish head .6, bd']
+bb = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head -.1, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head .0, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head .1, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head .2, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head .3, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head .4, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head .5, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head .6, bb']
+bd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head -.1, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head .0, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head .1, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head .2, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head .3, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head .4, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head .5, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish head .6, bd']
 
 for i in range(len(title)):
     fish([bb[i], bd[i]], title[i])
@@ -1104,26 +1104,26 @@ for i in range(len(title)):
 #%% fish body
 
 title = ['body -_1', 'body _0', 'body _1', 'body _2', 'body _3', 'body _4', 'body _5', 'body _6', 'body _7', 'body _8']
-bb = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body -.1, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .0, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .1, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .2, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .3, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .4, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .5, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .6, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .7, bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .8, bb']
-bd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body -.1, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .0, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .1, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .2, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .3, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .4, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .5, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .6, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .7, bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\fish body .8, bd']
+bb = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body -.1, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .0, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .1, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .2, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .3, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .4, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .5, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .6, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .7, bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .8, bb']
+bd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body -.1, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .0, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .1, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .2, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .3, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .4, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .5, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .6, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .7, bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\fish body .8, bd']
 
 for i in range(len(title)):
     fish([bb[i], bd[i]], title[i])
@@ -1131,35 +1131,35 @@ for i in range(len(title)):
 #%% REDONE TiO2
 
 title = ['TiO2 0_125', 'TiO2 0_25', 'TiO2 0_5', 'TiO2 1', 'TiO2 2']
-bb = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 0.125 bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 0.25 bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 0.5 bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 1 bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 2 bb']
+bb = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 0.125 bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 0.25 bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 0.5 bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 1 bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 2 bb']
 
-bd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 0.125 bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 0.25 bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 0.5 bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 1 bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 2 bd']
+bd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 0.125 bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 0.25 bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 0.5 bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 1 bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 2 bd']
 
-db = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 0.125 db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 0.25 db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 0.5 db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 1 db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 2 db']
+db = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 0.125 db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 0.25 db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 0.5 db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 1 db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 2 db']
 
-dd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 0.125 dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 0.25 dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 0.5 dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 1 dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\TiO2 2 dd']
+dd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 0.125 dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 0.25 dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 0.5 dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 1 dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\TiO2 2 dd']
 mask = [
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d TiO2 0.125 bb average.tif',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d TiO2 0.25 bb average.tif',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d TiO2 0.5 bb average.tif',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d TiO2 1 bb average.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d TiO2 2 bb average AMENDED.tif']
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d TiO2 0.125 bb average.tif',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d TiO2 0.25 bb average.tif',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d TiO2 0.5 bb average.tif',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d TiO2 1 bb average.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d TiO2 2 bb average AMENDED.tif']
 
 sb_avrgs = []
 sb_avrgs_errs = []
@@ -1303,35 +1303,35 @@ plt.show()
 #%% REDONE TiO2 dithered
 
 title = ['d_TiO2 0_125', 'd_TiO2 0_25', 'd_TiO2 0_5', 'd_TiO2 1', 'd_TiO2 2']
-bb = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 0.125 bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 0.25 bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 0.5 bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 1 bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 2 bb']
+bb = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 0.125 bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 0.25 bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 0.5 bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 1 bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 2 bb']
 
-bd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 0.125 bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 0.25 bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 0.5 bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 1 bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 2 bd']
+bd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 0.125 bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 0.25 bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 0.5 bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 1 bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 2 bd']
 
-db = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 0.125 db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 0.25 db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 0.5 db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 1 db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 2 db']
+db = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 0.125 db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 0.25 db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 0.5 db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 1 db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 2 db']
 
-dd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 0.125 dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 0.25 dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 0.5 dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 1 dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\d TiO2 2 dd']
+dd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 0.125 dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 0.25 dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 0.5 dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 1 dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\d TiO2 2 dd']
 mask = [
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d TiO2 0.125 bb average.tif',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d TiO2 0.25 bb average.tif',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d TiO2 0.5 bb average.tif',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d TiO2 1 bb average.tiff',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d TiO2 2 bb average AMENDED.tif']
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d TiO2 0.125 bb average.tif',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d TiO2 0.25 bb average.tif',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d TiO2 0.5 bb average.tif',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d TiO2 1 bb average.tiff',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d TiO2 2 bb average AMENDED.tif']
 
 
 sb_avrgs = []
@@ -1476,35 +1476,35 @@ plt.show()
 #%% REDONE latex
 
 title = ['latex 0_23', 'latex 0_46', 'latex 0_92', 'latex 0_18', 'latex 0_36']
-bb = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 0.23 bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 0.46 bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 0.92 bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 1.8 bb',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 3.6 bb']
+bb = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 0.23 bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 0.46 bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 0.92 bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 1.8 bb',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 3.6 bb']
 
-bd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 0.23 bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 0.46 bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 0.92 bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 1.8 bd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 3.6 bd']
+bd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 0.23 bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 0.46 bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 0.92 bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 1.8 bd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 3.6 bd']
 
-db = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 0.23 db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 0.46 db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 0.92 db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 1.8 db',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 3.6 db']
+db = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 0.23 db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 0.46 db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 0.92 db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 1.8 db',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 3.6 db']
 
-dd = [r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 0.23 dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 0.46 dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 0.92 dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 1.8 dd',
-      r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\latex 3.6 dd']
+dd = [r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 0.23 dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 0.46 dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 0.92 dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 1.8 dd',
+      r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\latex 3.6 dd']
 mask = [
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d latex 0.23 bb average.tif',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d latex 0.46 bb average.tif',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d latex 0.92 bb average.tif',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d latex 1.8 bb average.tif',
-    r'C:\Users\liann\OneDrive - Imperial College London\Documents\Project\Pictures\REDONE\Masks\masks\Mask of d latex 3.6 bb average.tif']
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d latex 0.23 bb average.tif',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d latex 0.46 bb average.tif',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d latex 0.92 bb average.tif',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d latex 1.8 bb average.tif',
+    r'C:\Users\liann\Documents\GitHub\MSci-Scattered-Light-LSM\Pictures\REDONE\Masks\masks\Mask of d latex 3.6 bb average.tif']
 
 sb_avrgs = []
 sb_avrgs_errs = []
