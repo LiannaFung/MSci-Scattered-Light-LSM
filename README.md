@@ -13,7 +13,7 @@ By subtracting images taken with non-aligned polarisers (where Rayleigh scatteri
 Laser light passes through a first polariser, which is free to rotate, causing the light to be polarised in one direction. Polarised light then passes through a cylindrical lens which bends the light into a thin sheet used to illuminate a thin slice of the sample (see image below). Rayleigh and Mie scattering occurs within this slice. A second polariser is positioned in the y direction 90&deg; above the sample and filters the polarisation of the scattered light before it reaches the camera. Additional optical components are included to maintain the correct focal lengths, prevent aberration and perform dithering.
 <img width="8268" height="5378" alt="Setup" src="https://github.com/user-attachments/assets/508156b0-0300-415d-93ee-57e0ae87869f" />
 
-Sameples consist of sunflower pollen (Mie scattering signal), suspended in agarose with varying concentrations of Rayleigh scattering (TiO_2) and Mie scattering (polystyrene latex microspheres) background. Fish embryo specimen were later investigated.
+Sameples consist of sunflower pollen (Mie scattering signal), suspended in agarose with varying concentrations of Rayleigh scattering (TiO<sub>2</sub>) and Mie scattering (polystyrene latex microspheres) background. Fish embryo specimen were later investigated.
 
 ## Documentation
 The code in this repository is not fully modular. Each specimen type we analysed required manual adjustments to subplot layouts, scale bars, titles, and other figure-related elements, which made it impractical to generalise the plotting pipeline. 
