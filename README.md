@@ -21,7 +21,7 @@ The code in this repository is not fully modular. Each specimen type we analysed
 We first investigated individual images to determine methods of increasing contrast, before creating a generalised function to take in multiple sets of images for a given objective lens. This was done to streamline the process of generating all the plots and data required for the report.
 
 
-### Data inpouts
+### Data inputs
 - [Pictures](Pictures) - Unprocessed images taken from microscope.
   - [#Masks](Pictures/#Masks) - Masks for pollen (generated from ImageJ).
   - Other subfolders - Each folder (image stack) contains images at a specific concentration of background, at different angles of polarisation.
@@ -29,23 +29,23 @@ We first investigated individual images to determine methods of increasing contr
 ### Investigation
 Make sure to change file paths to your relevant save location. All relevant unprocessed images are saved in the Pictures file.
 - [Averages Bar Chart.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/tree/main/Averages%20Bar%20Chart.py) - Investigation into average pixel value and polarisation at varying background concentrations.
-- [Balls.py](Balls.py) - Calculates the amount of background suspension required to produce a given concentration, and the mean free path at the given concentration
-- [Fish 10x Objective.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/Fish%2010x%20Objective.py) - Generates processed images from data taken using the microscope.
+- [Balls.py](Balls.py) - Calculates the amount of background suspension required to produce a given concentration, and the mean free path at the given concentration.
+- [Fish 10x Objective.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/Fish%2010x%20Objective.py) - Generates processed images from data taken using the 10x objective.
 - [Image Analysis.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/Image%20Analysis.py) - Invetsigations into root mean squared (RMS) brightness at varying polarisations.
-- [ImageJ analysis.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/ImageJ%20analysis.py) - Investigations into using ImageJ python package: more effective to produce masks within the ImageJ program instead, as it was easier to visualise the mask for low contrast unprocessed images [^*].
+- [ImageJ analysis.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/ImageJ%20analysis.py) - Investigations into using ImageJ python package: more effective to produce masks within the ImageJ program instead, as it was easier to visualise the mask for low contrast unprocessed images.
 - [SC and SNR.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/SC%20and%20SNR.py) - Invenstigation into speckle contrast (SC) and signal to noise ratio (SNR).
 - [Save Images.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/SCSave%20Images.py) - Functions to show an averaged stack of iamges, subtract averaged stacks of iamges (taken at different polarisations), and save the subtracted images.
-- [data theta.rtf](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/data%20theta.rtf) - Angle of a motorised rotation stage holding a polariser.
+- [data theta.rtf](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/data%20theta.rtf) - Angles of a motorised rotation stage holding a polariser. Compared to images data and used to determine the motor angle at the horizontal polariser orientation, and the vertical polariser orientation.
   - [Uden navn 2.txt](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/Uden%20navn%202.txt) - Reformatted [data theta.rtf](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/data%20theta.rtf) for easier importing.
   - [scattering profile.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/scattering%20profile.py) - Calculates the scattering profile using [Uden navn 2.txt](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/Uden%20navn%202.txt).
 - [everything.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/everything.py) - Amalgumation of [Save Images.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/SCSave%20Images.py), [SC and SNR.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/SC%20and%20SNR.py) with errors and better formatting. One all encompassing function that averages stacks of images, subtracts the averaged stacks, calculates the SC and SB, and saves the plots.
 - [functions.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/functions.py) - Investigation into image subtractions at different concentrations.
 - [lianna polarisation.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/lianna%20polarisation.py) - Generates degree of polarisation plots for averaged image stacks at given polarisation orientations.
-- [mean free path.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/mean%20free%20path.py) - Visualises Rayleight and Mie scattering for the background suspension.
+- [mean free path.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/mean%20free%20path.py) - Visualises Rayleigh and Mie scattering for the background suspension.
 - [read and plot.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/read%20and%20plot.py) - Investigation into the quantitative improvement of contrast after performing image subtraction.
 
 ### Plots for report
 Code for generating the plots seen in the report.
-- [Final Images](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/tree/main/Final%20Images) - Folder of output images for the report. Note that the individual plots generated from [Final Plots 10x Objective.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/Final%20Plots%2010x%20Objective.py) and [Final Plots 40x Objective.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/Final%20Plots%2040x%20Objective.py) are not saved on this repo.
-- [Final Plots 10x Objective.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/Final%20Plots%2010x%20Objective.py) - Generates the processed images from data taken using the 10x objective lens.
-- [Final Plots 40x Objective.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/Final%20Plots%2040x%20Objective.py) - Generates the processed images from data taken using the 40x objective lens.
+- [Final Images](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/tree/main/Final%20Images) - Folder of output images for the report. Note that the individual plots generated from [Final Plots 10x Objective.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/Final%20Plots%2010x%20Objective.py) and [Final Plots 40x Objective.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/Final%20Plots%2040x%20Objective.py) are not saved on this repository.
+- [Final Plots 10x Objective.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/Final%20Plots%2010x%20Objective.py) - Generates the processed images and relevant data from images taken using the 10x objective lens.
+- [Final Plots 40x Objective.py](https://github.com/LiannaFung/MSci-Scattered-Light-LSM/blob/main/Final%20Plots%2040x%20Objective.py) - Generates the processed images and relevant data from images taken using the 40x objective lens.
