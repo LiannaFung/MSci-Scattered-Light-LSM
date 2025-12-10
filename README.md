@@ -19,9 +19,12 @@ Samples consist of sunflower pollen (Mie scattering signal), suspended in agaros
 The code in this repository is not fully modular. Each specimen type we analysed required manual adjustments to subplot layouts, scale bars, and other figure-related elements, depending on the objective lens used, which made it impractical to generalise plotting and data analysis into a single function. 
 
 We first investigated individual images to determine methods of increasing contrast, before creating a generalised function to take in multiple sets of images for a given objective lens. This was done to streamline the process of generating all the plots and data required for the report.
-- [Pictures](Pictures) - Data input: unprocessed images taken from microscope.
-  - [#Masks](Pictures/#Masks) - Data input: masks for pollen (generated from imagej).
-  - Other subfolders - Data input: each folder (image stack) contains images at a specific concentration of background, at different angles of polarisation.
+
+
+### Data inpouts
+- [Pictures](Pictures) - Unprocessed images taken from microscope.
+  - [#Masks](Pictures/#Masks) - Masks for pollen (generated from ImageJ).
+  - Other subfolders - Each folder (image stack) contains images at a specific concentration of background, at different angles of polarisation.
 
 ### Investigation
 Make sure to change file paths to your relevant save location. All relevant unprocessed images are saved in the Pictures file.
